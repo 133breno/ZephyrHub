@@ -1,5 +1,5 @@
 -- Zephyr ADM HUB Visual Completo
--- Desenvolvido por ChatGPT + botzinYT12
+-- Desenvolvido por  botzinYT12
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
